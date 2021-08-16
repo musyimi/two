@@ -1,0 +1,3 @@
+<div>
+    hybrid page
+</div>
